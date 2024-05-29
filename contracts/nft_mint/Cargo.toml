@@ -12,7 +12,7 @@ crate-type = ["cdylib"]
 doctest = false
 
 [package]
-name = "hello-world"
+name = "nft-mint"
 version = "0.0.0"
 edition = "2021"
 publish = false
